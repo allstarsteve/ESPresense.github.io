@@ -47,6 +47,7 @@ nav_order: 3
 | Fi Smart Dog Collar  | Smart Base needs to be powered off or Collars will not beacon
 | Gigaset G-Tag        | Only works when not connected to a phone
 | Garmin Instinct Solar| [amz/us](https://amzn.to/3JF7IeI){:target="_blank"}           | This only work while using the Broadcast Heart Rate function. It seems to be somewhat slow but usable. I do think that maybe all garmin device with this function will work.
+| Garmin ForeRunner 955| Works when not connected to a phone, or connected and using Broadcast Heart Rate function.
 
 ## Known to not work
 
